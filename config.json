@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN",
+    "prefix": "!",
+    "database": {
+        "user": "root",
+        "password": "",
+        "ip": "localhost",
+        "port": 3306,
+        "database": "affaires_pyc"
+    }
+}
